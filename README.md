@@ -2,6 +2,10 @@
 
 A full-stack web application built with React.js frontend and Node.js/Express backend featuring user authentication, task management, and a responsive dashboard.
 
+## 🚀 Live Demo
+[Click here to view the project](https://scalable-web-app.onrender.com)
+
+
 ## 🛠️ Tech Stack
 
 ### Frontend
